@@ -3,4 +3,5 @@ def devide(a,b):
         return a/b
     else:
         print("Wrong input")
+        return 1
 
